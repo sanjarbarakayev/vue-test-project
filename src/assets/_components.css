@@ -1,0 +1,3 @@
+.input {
+  @apply border border-[#E0E7FF] rounded-md bg-[#E0E7FF]/20;
+}
